@@ -63,7 +63,7 @@ DreamWave AI is a mobile application that transforms sleep and dream data into m
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yash-agarwa-l/dream-wave.git
+git clone https://github.com/Mishikasardana/dream-wave.git
 cd dream-wave
 ```
 
